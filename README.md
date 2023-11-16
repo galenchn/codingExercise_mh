@@ -22,6 +22,7 @@ To set up the project, follow these steps:
    npm install
 
 To execute the tests, run the following command in the terminal:
+
   npx playwright test
 
 This will launch the Playwright test runner and execute the tests defined in the test suite.
